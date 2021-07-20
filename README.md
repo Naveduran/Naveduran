@@ -11,7 +11,7 @@
 -  🗽 I dream with machine learning and python 🚀
 - 💅I am a Clean Code Fan
 - 👯 I’m looking to collaborate with other quasi-devs and learn together!
-- - 💬 Ask me about why technology is so important to change the world 🌍
+- 💬 Ask me about why technology is so important to change the world 🌍
 - 🤔 I’m looking for help with creating web scraper
 
 - ⚡ Fun facts: 
