@@ -7,12 +7,11 @@
 ## I'm studying to be a Software Developer of Machine Learning!!
 
 Interests:
-🏭 Automation of tedious things
-💝 Making lives better
-🏥 Tech for Health
-🌱 I’m currently learning everything 🤣 
-💅 Clean Code Fan
-
+- 🏭 Automation of tedious things
+- 💝 Making lives better
+- 🏥 Tech for Health
+- 🌱 I’m currently learning everything 🤣 
+- 💅 Clean Code Fan
 💬 Ask me: why technology is so important to change the world? 🌍
 
 ___
