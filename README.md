@@ -10,9 +10,11 @@ Interests:
 - 🏭 Automation of tedious things
 - 💝 Making lives better
 - 🏥 Tech for Health
-- 🌱 I’m currently learning everything 🤣 
+
+Me:
 - 💅 Clean Code Fan
-💬 Ask me: why technology is so important to change the world? 🌍
+- 🌱 Currently learning everything 🤣 
+- 💬 Ask me: why technology is so important to change the world? 🌍
 
 ___
 
