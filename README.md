@@ -4,7 +4,7 @@
 ![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveduran&show_icons=true&theme=jolly&layout=compact&border_radius=10&line_height=20&custom_title=Stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveduran&show_icons=true&theme=jolly&layout=compact&border_radius=10)
 
 
-## Software Developer soon in Machine Learning!!
+## Full Stack Developer!!
 
 Interests:
 - 🏭 Automation of tedious things
