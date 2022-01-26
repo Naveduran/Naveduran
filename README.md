@@ -1,6 +1,7 @@
 ## Full Stack Developer!!
 
 Interests:
+- Django-React projects with complex database management
 - 🏭 Automation of business processes
 - 💝 Making lives better
 - 🏥 Tech for Health
