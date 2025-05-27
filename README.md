@@ -1,7 +1,7 @@
-## Full Stack Developer!!
+## Python Developer!!
 
 Interests:
-- 🏥 Tech for Health and education
+- 🏥 Tech for Health and Education
 - 🏭 Automation of business processes
 
 ### 🎭 My writings on NerdsForTech 🎨
